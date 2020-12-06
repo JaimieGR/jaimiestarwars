@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bespin:hoth_portal_ew"
+    },
+    "axis=x": {
+      "model": "bespin:hoth_portal_ns"
+    },
+    "inventory": {
+      "model": "bespin:hoth_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "bespin:durasteel"
+    },
+    "1": {
+      "item": "bespin:guncore"
+    },
+    "2": {
+      "item": "bespin:republicgasring"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    },
+    "4": {
+      "item": "bespin:durasteel"
+    },
+    "5": {
+      "item": "bespin:durasteel"
+    },
+    "6": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "bespin:dl44blaster",
+    "count": 1
+  }
+}

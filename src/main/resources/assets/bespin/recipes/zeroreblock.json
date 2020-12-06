@@ -1,0 +1,42 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "1": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "2": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "3": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "4": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "5": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "6": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "7": {
+      "item": "bespin:stablezersiumingot"
+    },
+    "8": {
+      "item": "bespin:stablezersiumingot"
+    }
+  },
+  "result": {
+    "item": "bespin:stablezersiumoreblock",
+    "count": 1
+  }
+}

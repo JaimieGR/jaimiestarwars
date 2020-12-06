@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": {
+      "model": "bespin:moisturevaporator"
+    },
+    "facing=north": {
+      "model": "bespin:moisturevaporator"
+    },
+    "facing=east": {
+      "model": "bespin:moisturevaporator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "bespin:moisturevaporator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bespin:moisturevaporator",
+      "y": 270
+    }
+  }
+}

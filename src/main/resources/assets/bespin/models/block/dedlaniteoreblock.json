@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bespin:blocks/dedlanite_ore_block",
+    "particle": "bespin:blocks/dedlanite_ore_block"
+  }
+}

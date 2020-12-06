@@ -1,0 +1,56 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0.0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Tatooine Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "___",
+    "portalTexture": "hothtest",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:TatFlat"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.SANDSTONE#0"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.SAND#0"
+    },
+    "airColor": {
+      "value": -52,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "dimensionMusic": {
+      "value": ""
+    }
+  }
+}

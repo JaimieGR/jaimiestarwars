@@ -1,0 +1,11 @@
+{
+  "pistol1": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "bespin:pistol-1",
+        "stream": false
+      }
+    ]
+  }
+}

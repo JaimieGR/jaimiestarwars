@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bespin:tatooine_portal_ew"
+    },
+    "axis=x": {
+      "model": "bespin:tatooine_portal_ns"
+    },
+    "inventory": {
+      "model": "bespin:tatooine_portal_ns"
+    }
+  }
+}

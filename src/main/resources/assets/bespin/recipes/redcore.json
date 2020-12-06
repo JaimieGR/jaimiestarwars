@@ -1,0 +1,16 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "bespin:powercell"
+    }
+  ],
+  "result": {
+    "item": "bespin:redstonepowercell",
+    "count": 1
+  }
+}

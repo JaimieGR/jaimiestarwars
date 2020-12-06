@@ -1,0 +1,8 @@
+{
+  "parent": "bespin:custom/moisturevaporator",
+  "textures": {
+    "all": "bespin:blocks/ppfinalwithshort",
+    "particle": "bespin:blocks/ppfinalwithshort",
+    "0": "bespin:blocks/ppfinalwithshort"
+  }
+}

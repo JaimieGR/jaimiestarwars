@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RedstonePowerCell"
+      },
+      {
+        "value": "CUSTOM:GlowstonePowerCell"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "powercore",
+    "namespace": "forge"
+  }
+}

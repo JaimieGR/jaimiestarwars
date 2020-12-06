@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:circuitBasic"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:ingotSteel"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:ingotSteel"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AtrtWalkerSpawner"
+    },
+    "name": "walkercraft",
+    "namespace": "mod"
+  }
+}

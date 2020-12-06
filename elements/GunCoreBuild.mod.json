@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:HeatingCoil"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:HeatingCoil"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      },
+      {
+        "value": "TAG:powercore"
+      },
+      {
+        "value": "CUSTOM:DedlaniteIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GunCore"
+    },
+    "name": "guncorebuild",
+    "namespace": "mod"
+  }
+}

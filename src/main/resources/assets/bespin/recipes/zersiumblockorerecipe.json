@@ -1,0 +1,13 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bespin:zersiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "bespin:zersiumingot",
+    "count": 9
+  }
+}

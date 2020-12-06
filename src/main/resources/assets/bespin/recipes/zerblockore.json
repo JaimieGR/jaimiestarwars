@@ -1,0 +1,16 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "bespin:stablezersiumoreblock"
+    }
+  },
+  "result": {
+    "item": "bespin:stablezersiumingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "type": "forge:ore_dict",
+      "ore": "circuitBasic"
+    },
+    "4": {
+      "item": "minecraft:iron_block"
+    },
+    "6": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "8": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "bespin:atrtwalkerspawner",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "bespin:coil"
+    },
+    "1": {
+      "item": "bespin:coil"
+    },
+    "2": {
+      "item": "bespin:coil"
+    }
+  },
+  "result": {
+    "item": "bespin:heatingcoil",
+    "count": 1
+  }
+}

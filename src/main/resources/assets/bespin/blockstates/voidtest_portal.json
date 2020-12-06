@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bespin:voidtest_portal_ew"
+    },
+    "axis=x": {
+      "model": "bespin:voidtest_portal_ns"
+    },
+    "inventory": {
+      "model": "bespin:voidtest_portal_ns"
+    }
+  }
+}

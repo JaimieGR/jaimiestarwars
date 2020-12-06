@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bespin:blocks/sidetest",
+    "particle": "bespin:blocks/sidetest"
+  }
+}

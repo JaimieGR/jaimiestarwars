@@ -1,0 +1,37 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 839,
+    "height": 462,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "equiped",
+          "color": {
+            "value": -10066330,
+            "falpha": 0.0
+          },
+          "name": "equiped",
+          "x": 17,
+          "y": 16
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "name": "Slot #0",
+          "x": 599,
+          "y": 354
+        }
+      }
+    ]
+  }
+}

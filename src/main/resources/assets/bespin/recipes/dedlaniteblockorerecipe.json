@@ -1,0 +1,13 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bespin:dedlaniteoreblock"
+    }
+  ],
+  "result": {
+    "item": "bespin:dedlaniteingot",
+    "count": 9
+  }
+}

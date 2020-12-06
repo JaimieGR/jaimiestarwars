@@ -1,0 +1,16 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bespin:stablezersiumingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "bespin:durasteel",
+    "count": 1
+  }
+}

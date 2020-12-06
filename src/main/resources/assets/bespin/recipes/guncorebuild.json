@@ -1,0 +1,43 @@
+{
+  "group": "bespin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bespin:dedlaniteingot"
+    },
+    "1": {
+      "item": "bespin:heatingcoil"
+    },
+    "2": {
+      "item": "bespin:dedlaniteingot"
+    },
+    "3": {
+      "item": "bespin:dedlaniteingot"
+    },
+    "4": {
+      "item": "bespin:heatingcoil"
+    },
+    "5": {
+      "item": "bespin:dedlaniteingot"
+    },
+    "6": {
+      "item": "bespin:dedlaniteingot"
+    },
+    "7": {
+      "type": "forge:ore_dict",
+      "ore": "powercore"
+    },
+    "8": {
+      "item": "bespin:dedlaniteingot"
+    }
+  },
+  "result": {
+    "item": "bespin:guncore",
+    "count": 2
+  }
+}

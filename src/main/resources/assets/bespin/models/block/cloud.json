@@ -1,0 +1,8 @@
+{
+  "parent": "bespin:custom/cloudness",
+  "textures": {
+    "all": "bespin:blocks/wajja",
+    "particle": "bespin:blocks/wajja",
+    "0": "bespin:blocks/wajja"
+  }
+}

@@ -185,6 +185,11 @@ public class EntityStormTrooper extends ElementsBespin.ModElement {
 		public EntityArrowCustom(World worldIn, EntityLivingBase shooter) {
 			super(worldIn, shooter);
 		}
+
+		@Override
+		public boolean canBeCollidedWith() {
+			return false;
+		}
 	}
 
 	public static class Modelstormtrooper extends ModelBase {

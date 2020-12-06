@@ -678,7 +678,7 @@
       "type": "mob",
       "sortid": 73,
       "compiles": true,
-      "locked_code": false,
+      "locked_code": true,
       "ids": {
         "0": 16,
         "1": 17

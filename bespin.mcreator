@@ -1,6 +1,6 @@
 {
   "id_map": {
-    "ENTITY": 15,
+    "ENTITY": 17,
     "GUI": 2,
     "DIMENSION": 4
   },
@@ -672,6 +672,17 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "StormTrooper",
+      "type": "mob",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 16,
+        "1": 17
+      }
     }
   ],
   "variable_elements": [],
@@ -722,6 +733,7 @@
       "tile.testblock.name": "Test Block",
       "biome.bespin.iceflat": "Ice Flat",
       "entity.tauntaun.name": "Tauntaun",
+      "entity.stormtrooper.name": "Storm Trooper",
       "tile.moisturevaporator.name": "Moisture Vaporator",
       "item.coil.name": "Heating Coil",
       "entity.atrtwalker.name": "At-Rt Walker",
